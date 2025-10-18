@@ -1,0 +1,428 @@
+{
+  "clothes": [
+    {
+      "id": 1,
+      "name": "Urban Linen Shirt",
+      "gender": "male",
+      "price": "₦12,500",
+      "image": "https://images.pexels.com/photos/842811/pexels-photo-842811.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Formal Suit Jacket",
+      "gender": "male",
+      "price": "₦28,000",
+      "image": "https://images.pexels.com/photos/428340/pexels-photo-428340.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Denim Utility Jacket",
+      "gender": "male",
+      "price": "₦18,000",
+      "image": "https://images.unsplash.com/photo-1520975913547-6f8b3fbdde52?auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 4,
+      "name": "Classic Polo Tee",
+      "gender": "male",
+      "price": "₦11,000",
+      "image": "https://images.pexels.com/photos/5608668/pexels-photo-5608668.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Cozy Knit Sweater",
+      "gender": "male",
+      "price": "₦14,500",
+      "image": "https://images.unsplash.com/photo-1519741491657-9b1b2f8a2f3b?auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 6,
+      "name": "Silk Midi Dress",
+      "gender": "female",
+      "price": "₦24,000",
+      "image": "https://images.pexels.com/photos/2065200/pexels-photo-2065200.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "Summer Linen Top",
+      "gender": "female",
+      "price": "₦10,500",
+      "image": "https://images.pexels.com/photos/3612980/pexels-photo-3612980.jpeg"
+    },
+    {
+      "id": 8,
+      "name": "Evening Satin Gown",
+      "gender": "female",
+      "price": "₦29,500",
+      "image": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 9,
+      "name": "Floral Midi Skirt",
+      "gender": "female",
+      "price": "₦12,000",
+      "image": "https://images.pexels.com/photos/1025462/pexels-photo-1025462.jpeg"
+    },
+    {
+      "id": 10,
+      "name": "High-Rise Denim Jeans",
+      "gender": "female",
+      "price": "₦13,500",
+      "image": "https://images.pexels.com/photos/428336/pexels-photo-428336.jpeg"
+    },
+    {
+      "id": 11,
+      "name": "Male Shirt 6",
+      "gender": "male",
+      "price": "₦11,500",
+      "image": "https://images.unsplash.com/photo-1520975913546-6f8b3fbdde51?auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 12,
+      "name": "Male Shirt 7",
+      "gender": "male",
+      "price": "₦12,200",
+      "image": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg"
+    },
+    {
+      "id": 13,
+      "name": "Male Shirt 8",
+      "gender": "male",
+      "price": "₦15,000",
+      "image": "https://images.unsplash.com/photo-1520975913544-6f8b3fbdde50?auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 14,
+      "name": "Male Shirt 9",
+      "gender": "male",
+      "price": "₦13,800",
+      "image": "https://images.pexels.com/photos/428333/pexels-photo-428333.jpeg"
+    },
+    {
+      "id": 15,
+      "name": "Male Shirt 10",
+      "gender": "male",
+      "price": "₦10,900",
+      "image": "https://images.unsplash.com/photo-1519741491657-9b1b2f8a2f3c?auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 16,
+      "name": "Elegant Wrap Dress",
+      "gender": "female",
+      "price": "₦21,500",
+      "image": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 17,
+      "name": "Chiffon Blouse",
+      "gender": "female",
+      "price": "₦11,300",
+      "image": "https://images.pexels.com/photos/374713/pexels-photo-374713.jpeg"
+    },
+    {
+      "id": 18,
+      "name": "Female Top 8",
+      "gender": "female",
+      "price": "₦10,800",
+      "image": "https://images.unsplash.com/photo-1520975913548-6f8b3fbdde53?auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 19,
+      "name": "Female Top 9",
+      "gender": "female",
+      "price": "₦12,700",
+      "image": "https://images.pexels.com/photos/1704488/pexels-photo-1704488.jpeg"
+    },
+    {
+      "id": 20,
+      "name": "Female Top 10",
+      "gender": "female",
+      "price": "₦14,200",
+      "image": "https://images.unsplash.com/photo-1520975913549-6f8b3fbdde54?auto=format&fit=crop&w=1350&q=80"
+    }
+  ],
+  "bags": [
+    {
+      "id": 21,
+      "name": "Leather Office Bag",
+      "gender": "male",
+      "price": "₦22,000",
+      "image": "https://images.pexels.com/photos/374074/pexels-photo-374074.jpeg"
+    },
+    {
+      "id": 22,
+      "name": "Casual Crossbody",
+      "gender": "male",
+      "price": "₦13,000",
+      "image": "https://images.pexels.com/photos/298863/pexels-photo-298863.jpeg"
+    },
+    {
+      "id": 23,
+      "name": "Travel Backpack",
+      "gender": "male",
+      "price": "₦17,000",
+      "image": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 24,
+      "name": "Laptop Messenger",
+      "gender": "male",
+      "price": "₦18,500",
+      "image": "https://images.pexels.com/photos/18105/pexels-photo.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Male Bag 5",
+      "gender": "male",
+      "price": "₦11,900",
+      "image": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 26,
+      "name": "Luxury Handbag",
+      "gender": "female",
+      "price": "₦25,000",
+      "image": "https://images.pexels.com/photos/428338/pexels-photo-428338.jpeg"
+    },
+    {
+      "id": 27,
+      "name": "Mini Purse",
+      "gender": "female",
+      "price": "₦10,000",
+      "image": "https://images.pexels.com/photos/298864/pexels-photo-298864.jpeg"
+    },
+    {
+      "id": 28,
+      "name": "Tote Bag",
+      "gender": "female",
+      "price": "₦18,000",
+      "image": "https://images.unsplash.com/photo-1503342452485-86f7bfa8a1a9?auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 29,
+      "name": "Evening Clutch",
+      "gender": "female",
+      "price": "₦13,000",
+      "image": "https://images.pexels.com/photos/298870/pexels-photo-298870.jpeg"
+    },
+    {
+      "id": 30,
+      "name": "Crossbody Classic",
+      "gender": "female",
+      "price": "₦11,500",
+      "image": "https://images.unsplash.com/photo-1520975913550-6f8b3fbdde55?auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 31,
+      "name": "Male Bag 6",
+      "gender": "male",
+      "price": "₦15,400",
+      "image": "https://images.pexels.com/photos/298866/pexels-photo-298866.jpeg"
+    },
+    {
+      "id": 32,
+      "name": "Male Bag 7",
+      "gender": "male",
+      "price": "₦20,000",
+      "image": "https://images.unsplash.com/photo-1519741491657-9b1b2f8a2f3b?auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 33,
+      "name": "Male Bag 8",
+      "gender": "male",
+      "price": "₦12,300",
+      "image": "https://images.pexels.com/photos/298869/pexels-photo-298869.jpeg"
+    },
+    {
+      "id": 34,
+      "name": "Male Bag 9",
+      "gender": "male",
+      "price": "₦14,700",
+      "image": "https://images.unsplash.com/photo-1504164996022-09080787b6b3?auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 35,
+      "name": "Male Bag 10",
+      "gender": "male",
+      "price": "₦10,800",
+      "image": "https://images.pexels.com/photos/298872/pexels-photo-298872.jpeg"
+    }
+  ],
+  "shoes": [
+    {
+      "id": 36,
+      "name": "Leather Loafers",
+      "gender": "male",
+      "price": "₦19,500",
+      "image": "https://images.pexels.com/photos/19090/pexels-photo-19090.jpeg"
+    },
+    {
+      "id": 37,
+      "name": "Men's White Sneakers",
+      "gender": "male",
+      "price": "₦14,000",
+      "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg"
+    },
+    {
+      "id": 38,
+      "name": "Formal Oxford",
+      "gender": "male",
+      "price": "₦20,000",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 39,
+      "name": "Slip-On Sandals",
+      "gender": "male",
+      "price": "₦10,200",
+      "image": "https://images.pexels.com/photos/1906801/pexels-photo-1906801.jpeg"
+    },
+    {
+      "id": 40,
+      "name": "Men's Ankle Boots",
+      "gender": "male",
+      "price": "₦25,000",
+      "image": "https://images.unsplash.com/photo-1528701800489-1a21e2c79b5a?auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 41,
+      "name": "Heeled Sandals",
+      "gender": "female",
+      "price": "₦16,000",
+      "image": "https://images.pexels.com/photos/19090/pexels-photo-19090.jpeg"
+    },
+    {
+      "id": 42,
+      "name": "Chic Ballet Flats",
+      "gender": "female",
+      "price": "₦9,800",
+      "image": "https://images.pexels.com/photos/298863/pexels-photo-298863.jpeg"
+    },
+    {
+      "id": 43,
+      "name": "Women's Sneakers",
+      "gender": "female",
+      "price": "₦13,000",
+      "image": "https://images.unsplash.com/photo-1520975913551-6f8b3fbdde56?auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 44,
+      "name": "Ankle Booties",
+      "gender": "female",
+      "price": "₦21,500",
+      "image": "https://images.pexels.com/photos/298865/pexels-photo-298865.jpeg"
+    },
+    {
+      "id": 45,
+      "name": "Comfort Flats",
+      "gender": "female",
+      "price": "₦11,400",
+      "image": "https://images.unsplash.com/photo-1519741491657-9b1b2f8a2f3d?auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 46,
+      "name": "Male Shoe 6",
+      "gender": "male",
+      "price": "₦12,300",
+      "image": "https://images.pexels.com/photos/267202/pexels-photo-267202.jpeg"
+    },
+    {
+      "id": 47,
+      "name": "Male Shoe 7",
+      "gender": "male",
+      "price": "₦13,700",
+      "image": "https://images.unsplash.com/photo-1528701800490-1a21e2c79b5b?auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 48,
+      "name": "Male Shoe 8",
+      "gender": "male",
+      "price": "₦15,000",
+      "image": "https://images.pexels.com/photos/2529150/pexels-photo-2529150.jpeg"
+    },
+    {
+      "id": 49,
+      "name": "Male Shoe 9",
+      "gender": "male",
+      "price": "₦10,950",
+      "image": "https://images.unsplash.com/photo-1519741491658-9b1b2f8a2f3e?auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 50,
+      "name": "Male Shoe 10",
+      "gender": "male",
+      "price": "₦19,800",
+      "image": "https://images.pexels.com/photos/1990788/pexels-photo-1990788.jpeg"
+    },
+    {
+      "id": 51,
+      "name": "Stiletto Heels",
+      "gender": "female",
+      "price": "₦20,000",
+      "image": "https://images.unsplash.com/photo-1520975913552-6f8b3fbdde57?auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 52,
+      "name": "Summer Sandals",
+      "gender": "female",
+      "price": "₦10,400",
+      "image": "https://images.pexels.com/photos/298864/pexels-photo-298864.jpeg"
+    },
+    {
+      "id": 53,
+      "name": "Slip-On Casuals",
+      "gender": "female",
+      "price": "₦12,700",
+      "image": "https://images.unsplash.com/photo-1520975913553-6f8b3fbdde58?auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 54,
+      "name": "Fashion Sandals",
+      "gender": "female",
+      "price": "₦11,200",
+      "image": "https://images.pexels.com/photos/298870/pexels-photo-298870.jpeg"
+    },
+    {
+      "id": 55,
+      "name": "Female Shoe 11",
+      "gender": "female",
+      "price": "₦13,900",
+      "image": "https://images.unsplash.com/photo-1520975913554-6f8b3fbdde59?auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 56,
+      "name": "Female Shoe 12",
+      "gender": "female",
+      "price": "₦14,600",
+      "image": "https://images.pexels.com/photos/298872/pexels-photo-298872.jpeg"
+    },
+    {
+      "id": 57,
+      "name": "Female Shoe 13",
+      "gender": "female",
+      "price": "₦10,200",
+      "image": "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb?auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 58,
+      "name": "Female Shoe 14",
+      "gender": "female",
+      "price": "₦12,400",
+      "image": "https://images.pexels.com/photos/298869/pexels-photo-298869.jpeg"
+    },
+    {
+      "id": 59,
+      "name": "Female Shoe 15",
+      "gender": "female",
+      "price": "₦15,300",
+      "image": "https://images.unsplash.com/photo-1520975913555-6f8b3fbdde60?auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 60,
+      "name": "Female Shoe 16",
+      "gender": "female",
+      "price": "₦11,000",
+      "image": "https://images.pexels.com/photos/298871/pexels-photo-298871.jpeg"
+    }
+  ]
+}
