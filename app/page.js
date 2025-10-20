@@ -62,7 +62,7 @@ export default function Home() {
         <h2>What Our Customers Say</h2>
         <div className="testimonial-grid">
           <div className="testimonial">
-            <p>“I love every piece I’ve bought from Diamond Apparell — it makes me feel confident!”</p>
+            <p>“I love every piece I’ve bought from Joy's Luxury — it makes me feel confident!”</p>
             <span>- Jessica, Lagos</span>
           </div>
           <div className="testimonial">
